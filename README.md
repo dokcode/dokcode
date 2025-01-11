@@ -1,16 +1,25 @@
 ### Hi there 👋
+Welcome to my Github page!
 
-<!--
-**dokcode/dokcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Languages I work with:
+![image](https://github.com/user-attachments/assets/7c76282d-b33c-4175-85b9-f46bd3ba6937/)
 
-Here are some ideas to get you started:
+![image](https://github.com/user-attachments/assets/f4e5c9ac-7fa6-47fd-a352-452919b2ac46)
 
-Currently I am working with ...
-AWS ![image](https://github.com/user-attachments/assets/92d8ede0-df21-4788-b847-bc36da7f65fa)
-Azure ![image](https://github.com/user-attachments/assets/bacc8958-507b-4ef8-9572-7ff0c568207e)
-GCP ![image](https://github.com/user-attachments/assets/8e437e7c-483c-42c5-a330-71a81b34248d)
+![image](https://github.com/user-attachments/assets/67a7d4f2-18e3-4986-82b5-80f3cae21d59)
 
-Current Coding Languages...
-Python ![image](https://github.com/user-attachments/assets/39f59196-1dea-4da2-aa12-d5b3977bdbaa)
-Go   ![image](https://github.com/user-attachments/assets/71fe5d87-db50-441a-aa89-c1414e8725b8)
+### Other technologies include:
+![image](https://github.com/user-attachments/assets/4fb7ea58-bbc4-424a-8c83-88bfd837a659)
+
+![image](https://github.com/user-attachments/assets/2ab25a6d-fd82-4f28-bd8d-1277fad7c42e)
+
+![image](https://github.com/user-attachments/assets/b096c683-023e-4e8f-a7a8-b87ec7c52679)
+
+![image](https://github.com/user-attachments/assets/f7a18953-2af7-4f26-9488-d751d114f074)
+
+
+
+
+
+
 
